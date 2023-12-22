@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from joyrun</name>
+    <trkseg>
+      <trkpt lat="37.528493" lon="122.073746">
+        <time>2023-11-28T13:38:31Z</time>
+      </trkpt>
+      <trkpt lat="37.528442" lon="122.073747">
+        <time>2023-11-28T13:38:36Z</time>
+      </trkpt>
+      <trkpt lat="37.52819" lon="122.07395">
+        <time>2023-11-28T13:38:41Z</time>
+      </trkpt>
+      <trkpt lat="37.528149" lon="122.074239">
+        <time>2023-11-28T13:38:46Z</time>
+      </trkpt>
+      <trkpt lat="37.528283" lon="122.074502">
+        <time>2023-11-28T13:38:51Z</time>
+      </trkpt>
+      <trkpt lat="37.528545" lon="122.074663">
+        <time>2023-11-28T13:38:56Z</time>
+      </trkpt>
+      <trkpt lat="37.528802" lon="122.074814">
+        <time>2023-11-28T13:41:34Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
